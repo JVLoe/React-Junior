@@ -2,7 +2,7 @@
 
 For this test we would like you to build a simple take-away ordering web app.
 
-We have provided you a JSON file of dish names with prices and whether dishes are vegetarian or not. That file is located [here](/menu.json)
+We have provided you a JSON file of dish names with prices and whether dishes are vegetarian or not. That file is located [here](/src/menu.json)
 Please note that this particular restaurant names all its dishes after people.
 
 Please refer to the User stores below to guide your work.
