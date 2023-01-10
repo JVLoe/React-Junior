@@ -1,12 +1,13 @@
-import MenuData from '../../menu.json'
 import React from "react";
+import './MenuItem.css';
+
 
 interface MenuItemProps {
     key: String,
     name: String,
     price: Number,
     vegetarian: Boolean,
-    children?: React.ReactNode
+    // children?: React.ReactNode
 }
 const MenuItem = (MenuItem: MenuItemProps): JSX.Element => {
     return (
